@@ -14,7 +14,7 @@ author: JEFFERSON PEÑARRETA
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  sobre mí: "sobre mí"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - RESUMEN: "https://drive.google.com/file/d/1pjSPujcmsHcuZR1ElQjliCqvYQl8OBAp/view?usp=sharing"
